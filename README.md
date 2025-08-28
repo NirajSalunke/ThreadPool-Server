@@ -1,3 +1,6 @@
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/9599d3ff-ab63-4441-8da9-10c563eb25ad" />
+
+
 # Multithreaded TCP Server (Java)
 
 This project is a simple multithreaded **TCP server** implemented in Java using a **thread pool**. It accepts multiple client connections concurrently and responds with a greeting message. The server is tested with **Apache JMeter** for load and performance benchmarking.
